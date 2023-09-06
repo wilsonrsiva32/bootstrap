@@ -1,0 +1,11 @@
+.caixa1,
+.caixa2 {
+    border: 1px dotted rgb(0, 0, 0);
+    height: 100px;
+}
+
+.caixa-interna,
+.borda {
+    border: 1px dotted rgb(0, 0, 0);
+}
+
